@@ -1,0 +1,6 @@
+Hello Krish
+Welcome to Python programming
+Django restful application
+krish first programming
+Hello world
+Hello Krish
